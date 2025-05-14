@@ -1,16 +1,10 @@
 {
-  "typescript": {
-  },
-  "json": {
-  },
-  "markdown": {
-  },
-  "malva": {
-  },
-  "markup": {
-  },
-  "yaml": {
-  },
+  "typescript": {},
+  "json": {},
+  "markdown": {},
+  "malva": {},
+  "markup": {},
+  "yaml": {},
   "excludes": [
     "**/node_modules",
     "**/*-lock.json"
