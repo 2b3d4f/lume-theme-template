@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.2.0] - Unreleased
+- Update LICENSE
 
 ## [0.1.1] - 2025-05-14
 - Add test
