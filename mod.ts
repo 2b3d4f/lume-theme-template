@@ -14,7 +14,6 @@ export default function (options: Partial<Options> = {}) {
       "_includes/layouts/base.vto",
       "uploads/favicon.svg",
       "_data.yml",
-      "posts/_data.yml",
       "404.vto",
       "index.vto",
       "style.css",
